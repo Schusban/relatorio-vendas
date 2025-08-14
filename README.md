@@ -23,6 +23,14 @@ Um sistema completo de relatórios de vendas em Python com interface web interat
 
 ---
 
+## 🌐 Acesse online
+
+Você pode usar o app diretamente pelo navegador, sem instalar nada:
+
+[![Abrir no Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://relatorio-vendas-schusban.streamlit.app/)
+
+---
+
 ## 🔹 Tecnologias
 
 - **Python 3.12+**  
